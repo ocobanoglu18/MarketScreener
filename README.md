@@ -1,4 +1,4 @@
-# MarketScreener-
+# MarketScreener
 <p>iOS application that allows user to see the whole market data in a one single mobile application.<p/>
 
 <p> Made with swiftUI and Firebase (Firestore, Auth etc.) <p/>
