@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  mscreener
+
+  Created by Adnan Cobanoglu on 18.04.2023.
+  
+*/
+
+"mainheadertext" = "Scrolling Text (Economic Calendar, sentiment of the week, market cap of fav tickers, event driven notifications, etc.";
+"twitter"="Twitter";
+"reddit"="Reddit";
+"telegram"="Telegram";
+"blog"="Blog";
+"news"="News";
+
+
